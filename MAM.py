@@ -1,4 +1,4 @@
-#file: muhsonah.py
+#file: MAM.py
 #Description: Program to print out my initials
 #Assignment Number: 1
 #
@@ -16,7 +16,7 @@ def main():
 
 
   """This Program prints the initials of my name"""
-  print('...MAS')
+  print('...MAM')
   print()
   print('...MMMM....MMMM............AAAA............MMMM....MMMM.....')
   print('...MMMM....MMMM...........AA..AA...........MMMM....MMMM.....')
