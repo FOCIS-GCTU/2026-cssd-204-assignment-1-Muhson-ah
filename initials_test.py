@@ -1,11 +1,11 @@
 import os.path
 import sys
-from MAM import main
+from mam import main
 
 
 def test_initials():
     try:
-        exists = os.path.exists("MAM.py")
+        exists = os.path.exists("mam.py")
         assert exists == True
     except:
         sys.exit()
