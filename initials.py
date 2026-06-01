@@ -1,4 +1,4 @@
-#file: mam.py
+#file: initials.py
 #Description: Program to print out my initials
 #Assignment Number: 1
 #
